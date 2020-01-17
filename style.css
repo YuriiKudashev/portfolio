@@ -193,7 +193,7 @@ body {
   background-image: url("img/icon-phone-footer.svg");
 }
 .plyer {
-	width: 724px; 
-	height: 593px;
-	 
+	width: 100%; 
+	height: 100%
+
 }
